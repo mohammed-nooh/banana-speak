@@ -30,7 +30,7 @@ main{
 }
 
 #input-text{
-    max-width:100%;
+    width:100%;
     min-height:20vh;
     display:block;
     font-size: large;
@@ -41,7 +41,8 @@ main{
 
 #submit{
     background-color: yellow;
-    border-radius: 0.3rem;;
+    border-radius: 0.3rem;
     min-height:10vh;
     font-size:larger;
+    margin:2rem 0rem;
 }
