@@ -5,6 +5,7 @@
 body{
     margin:0;
     font-family: 'Open Sans', sans-serif;
+    
 }
 
 /* NAV BAR  */
@@ -15,7 +16,7 @@ body{
     text-align: center;
     font-size:1.5rem;
     padding:0.3rem;
-    margin-bottom: 5rem;
+    margin-bottom: 2.5rem;
     
 }
 
@@ -45,4 +46,39 @@ main{
     min-height:10vh;
     font-size:larger;
     margin:2rem 0rem;
+}
+
+#output-box{
+    width:100%;
+    min-height:10vh;
+    border:1px solid black;
+    display: block;
+    font-size:large;
+    padding:0.5rem;
+    overflow: auto;
+}
+
+
+/* text area and translation part over  */
+
+/* footer area  */
+
+#footer{
+    background-color: yellow;
+    width:100%;
+    text-align: center;
+    margin-top: 3rem;
+
+}
+
+.footer-head{
+    font-size:1.7rem;
+   
+    padding-top:0.5rem;
+}
+
+.footer-para{
+    padding:0.2rem 1rem;
+    padding-bottom: 2rem;
+
 }
