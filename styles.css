@@ -6,13 +6,13 @@ body{
     margin:0;
     font-family: 'Open Sans', sans-serif;
     
+    
 }
 
 /* NAV BAR  */
 
 #header{
     background-color: yellow;
-    width:100%;
     text-align: center;
     font-size:1.5rem;
     padding:0.3rem;
@@ -68,6 +68,7 @@ main{
     width:100%;
     text-align: center;
     margin-top: 3rem;
+    
 
 }
 
@@ -78,7 +79,9 @@ main{
 }
 
 .footer-para{
-    padding:0.2rem 1rem;
+    padding:0rem 1rem;
     padding-bottom: 2rem;
 
 }
+
+/* footer part over  */
